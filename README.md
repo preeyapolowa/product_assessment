@@ -3,9 +3,7 @@ A Product Assessment project is created by Flutter
 
 # Demo
 
-
-https://github.com/preeyapolowa/product_assessment/assets/43370267/614ee099-f6bb-4adf-bf22-11375c0a7ba2
-
+https://github.com/preeyapolowa/product_assessment/assets/43370267/8be9d6c7-99ce-44b0-b185-dd3fea81a2ec
 
 
 # Needed Tools
